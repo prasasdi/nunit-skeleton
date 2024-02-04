@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\nUnit_Skeleton\CustomClassLibrary\bin\Debug\net8.0\CustomClassLibrary.deps.json
+C:\Users\User\source\repos\nUnit_Skeleton\CustomClassLibrary\bin\Debug\net8.0\CustomClassLibrary.dll
+C:\Users\User\source\repos\nUnit_Skeleton\CustomClassLibrary\bin\Debug\net8.0\CustomClassLibrary.pdb
+C:\Users\User\source\repos\nUnit_Skeleton\CustomClassLibrary\obj\Debug\net8.0\CustomClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\nUnit_Skeleton\CustomClassLibrary\obj\Debug\net8.0\CustomClassLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\nUnit_Skeleton\CustomClassLibrary\obj\Debug\net8.0\CustomClassLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\nUnit_Skeleton\CustomClassLibrary\obj\Debug\net8.0\CustomClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nUnit_Skeleton\CustomClassLibrary\obj\Debug\net8.0\CustomClassLibrary.dll
+C:\Users\User\source\repos\nUnit_Skeleton\CustomClassLibrary\obj\Debug\net8.0\refint\CustomClassLibrary.dll
+C:\Users\User\source\repos\nUnit_Skeleton\CustomClassLibrary\obj\Debug\net8.0\CustomClassLibrary.pdb
+C:\Users\User\source\repos\nUnit_Skeleton\CustomClassLibrary\obj\Debug\net8.0\ref\CustomClassLibrary.dll
